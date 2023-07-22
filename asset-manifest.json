@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zomato_clone/static/css/main.666fda1f.chunk.css",
-    "main.js": "/zomato_clone/static/js/main.22b42bfb.chunk.js",
-    "main.js.map": "/zomato_clone/static/js/main.22b42bfb.chunk.js.map",
+    "main.js": "/zomato_clone/static/js/main.9b05dee6.chunk.js",
+    "main.js.map": "/zomato_clone/static/js/main.9b05dee6.chunk.js.map",
     "runtime-main.js": "/zomato_clone/static/js/runtime-main.c1932e69.js",
     "runtime-main.js.map": "/zomato_clone/static/js/runtime-main.c1932e69.js.map",
     "static/js/2.1fbcbec2.chunk.js": "/zomato_clone/static/js/2.1fbcbec2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c1932e69.js",
     "static/js/2.1fbcbec2.chunk.js",
     "static/css/main.666fda1f.chunk.css",
-    "static/js/main.22b42bfb.chunk.js"
+    "static/js/main.9b05dee6.chunk.js"
   ]
 }
